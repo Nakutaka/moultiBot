@@ -14,3 +14,4 @@ Example of spelling that work:
 `!time Los angeles`
 `!time SEOUL`
 `!time hong_kong`
+Some accent are supported too : à,é,è,ê,ì,ö,ù,ü (the list will expand as needed).
