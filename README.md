@@ -5,9 +5,10 @@ Started on 11/08/2020.
 
 ## What can it does ?
 
-Two commands are available (for now): `!time` & `!aled`\
 The `time` command followed by the name of a city (mainly capitals) gives its current time.
 The `aled` command displays the main help message of the app.
+The `dice` command rolls a dice.
+The `duel` command followed by the @ (tag) of a user set up a duel between the user who type the command, and the tagged one.
 
 ### "Technical" specs
 
@@ -21,5 +22,12 @@ Example of spellings that work:\
 `!time hong_kong`
 
 #### Aled command
-You can add the name of a command to get its help page.
+You can add the name of a command to get its help page.\
 i.e `!aled time`
+
+#### Dice command
+Just type `!dice`.
+
+#### Duel command
+After starting a duel with `!duel`, the 2 users will have to type the dice command in the chat.
+After 2 rolls or that 1 minute has passed, the duel ends.
