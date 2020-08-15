@@ -5,9 +5,9 @@ Started on 11/08/2020.
 
 ## What can it does ?
 
-The `time` command followed by the name of a city (mainly capitals) gives its current time.
-The `aled` command displays the main help message of the app.
-The `dice` command rolls a dice.
+The `time` command followed by the name of a city (mainly capitals) gives its current time.\
+The `aled` command displays the main help message of the app.\
+The `dice` command rolls a dice.\
 The `duel` command followed by the @ (tag) of a user set up a duel between the user who type the command, and the tagged one.
 
 ### "Technical" specs
